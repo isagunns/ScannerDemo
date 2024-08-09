@@ -13,6 +13,6 @@ public class ScannerDemo {
         System.out.print(numberOfPods + " pods and ");
         System.out.println(peasPerPods + " peas per pod.");
         System.out.println("The total number of peas " + totalNumberOfPeas);
-        scanner.close();
+
     }
 }
